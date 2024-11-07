@@ -1,2 +1,4 @@
-# python-minor-project
+# pythonproject(minor)
 My name is Aakash Thapliyal, UID- 24MCC20027, This is my minor project of python whose title is: random password generator.
+In today's digital world, ensuring secure authentication is of utmost importance. One of the primary ways to protect data is by using strong and secure passwords. This project involves creating a simple yet effective password generator using Python that generates random passwords based on a combination of lowercase letters, uppercase letters, and digits. The user is prompted to input the desired password length, and the program generates a random password accordingly.
+The objective of this project is to develop a Python-based tool to generate random and secure passwords, enhancing the security of user accounts by providing unique and unpredictable passwords.
